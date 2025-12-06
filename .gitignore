@@ -1,0 +1,7 @@
+
+###> symfony/framework-bundle ###
+
+/vendor/
+/.env.dev/
+###< symfony/framework-bundle ###
+
